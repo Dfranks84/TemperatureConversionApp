@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature Conversion</string>
+
+    <string name="app_title">Temperature Conversion App</string>
+
+    <string name="image_description">Temperature conversion image</string>
+
+    <string name="instructions">Enter a temperature below and select a conversion.</string>
+
+    <string name="temperature_hint">Enter temperature</string>
+
+    <string name="btn_f_to_c">Convert Fahrenheit to Celsius</string>
+
+    <string name="btn_c_to_f">Convert Celsius to Fahrenheit</string>
+
+    <string name="result_placeholder">Converted temperature will appear here</string>
+
+    <string name="result_f_to_c">%1$.2f°F = %2$.2f°C</string>
+
+    <string name="result_c_to_f">%1$.2f°C = %2$.2f°F</string>
+
+    <string name="error_empty">Please enter a temperature.</string>
+
+    <string name="error_invalid">Please enter a valid number.</string>
+
+    <string name="error_f_range">Fahrenheit must be between -100°F and 250°F.</string>
+
+    <string name="error_c_range">Celsius must be between -75°C and 125°C.</string>
+
+</resources>
